@@ -1,7 +1,6 @@
 ---
 title: Dr Elektro
 timezone: UTC
-theme: minima
 collections:
   posts:
     title: Posts
@@ -9,3 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
+theme: minima
