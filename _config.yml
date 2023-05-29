@@ -1,6 +1,7 @@
 ---
 title: Dr Elektro
 timezone: UTC
+theme: minima
 collections:
   posts:
     title: Posts
